@@ -4,7 +4,14 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maiquoctruong&label=Profile%20views&color=0e75b6&style=flat" alt="maiquoctruong" /> </p>
 
-<p align="left"> <a href="https://www.facebook.com/truongochos" target="_blank"><img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=truongochos&logoColor=white alt="truongochos2403" /></a> </p>
+<p align="left"> <a href="https://www.facebook.com/truongochos" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="truongochos2403" /></a> </p>
+
+<p align="left"> <a href="https://www.instagram.com/rustlrmvrch" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="truongochos2403" /></a> </p>
+
+<p align="left"> <a href="https://www.twitter.com/truongochos2403" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> </p>
+
+<p align="left"> <a href="https://www.facebook.com/messages/t/truongochos" target="_blank"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /></a> </p>
+
 
 - 🌱 I’m currently learning **HTML, JS, CSS, JAVA, PYTHON, C, C++, Design**
 
