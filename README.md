@@ -22,17 +22,19 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
 
 <br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<h2 align="center">🔥 Mai Quốc Trưởng's GitHub Stats 🔥</h2>
 <br>
 <div align="center">
-  <a href="#" title="maiquoctruong">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiQuocTruong&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <a href="#">
+    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=MaiQuocTruong&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="MaiQuocTruong's GitHub stats" />
   </a>
-  <a href="#" title="maiquoctruong">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=ThenTrees&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <a href="#">
+    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiQuocTruong&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="MaiQuocTruong's Top Languages" />
   </a>
 </div>
 
