@@ -56,4 +56,4 @@
   </a>
 </div>
 
-![Mai Quoc Truong gif](https://github.com/maiquoctruong/maiquoctruong/blob/output/ocean.gif)
+![Mai Quoc Truong gif](https://github.com/maiquoctruong/maiquoctruong/blob/output/github-snake-dark.svg)
