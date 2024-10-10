@@ -55,3 +55,5 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="maiquoctruong-email" />
   </a>
 </div>
+
+![Mai Quoc Truong gif](https://github.com/MaiQuocTruong/MaiQuocTruong/blob/output/github-contribution-grid-snake.gif)
