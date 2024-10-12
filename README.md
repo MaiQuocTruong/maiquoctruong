@@ -57,3 +57,5 @@
 </div>
 
 ![Mai Quoc Truong gif](https://github.com/maiquoctruong/maiquoctruong/blob/output/github-snake-dark.svg)
+
+![Mai Quoc Truong gif](./profile-3d-contrib/profile-night-rainbow.svg)
