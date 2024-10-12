@@ -59,3 +59,6 @@
 ![Mai Quoc Truong gif](https://github.com/maiquoctruong/maiquoctruong/blob/output/github-snake-dark.svg)
 
 ![Mai Quoc Truong gif](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<img src="https://raw.githubusercontent.com/maiquoctruong/maiquoctruong/main/contrib_graph.gif" alt="Animated contrib graph showing 'Hello!' text" style="margin: auto; display:block; max-width: 600px; width: 98%; height: auto;" />
+
